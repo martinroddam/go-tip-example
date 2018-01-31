@@ -1,0 +1,8 @@
+--- 
+Paths: 
+  - 
+    PathName: "Navigated to Home"
+    PathDesc: "User successfully navigated home."
+  - 
+    PathName: "Navigated to Products"
+    PathDesc: "User successfully navigated to products."
